@@ -1,5 +1,9 @@
 Unix & Git for Everyone
 -----------------------
+1. 7
+2. The TAs were an amazing help. I appreciated the regular 5 minute breaks.
+3. Better communication about the first hour being install help. The first half of the day was very slow and the last hour was rushed when lecture was happening. Better pacing throughout. I would have love access to the slides to follow along or go back if I missed something. I don't know why those wouldn't be available during class.
+Also, when I looked at the pre-work it said to do treehouse classes for command line and git. That isn't part of the prework on the site now, but I had done them and it was mostly the same content. So I guess I was expecting some more advanced things like addressing merge conflicts. I did really appreciate the github work.
 
 ### Pre-work
 
