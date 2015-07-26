@@ -77,3 +77,20 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+Kyle Schnirring answering the Questions about the Unix/Git course.
+
+1. On a scale of 0 - 10 I'd give it a solid 10. The teachers did an excellent job
+   of explaining everything clearly. The T.A.s did a wonderful job as well and yes I
+   would definitely reccommend this course to a friend.
+
+2. My favorite part of the class was definitely the Git portion only because it was
+   a little more challenging to pick up.
+
+3. The only thing I'd change is that towards the end it got a little fast and if you
+   got left behind it was a struggle to catch up. The T.A.s did an amazing job at helping
+   people but if it was just a bit slower I think it would've been a little better.
+
+
+
+
