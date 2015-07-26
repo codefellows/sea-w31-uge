@@ -77,3 +77,15 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+1: On a scale of 0 - 10, how likely are you to recommend this workshop to a friend?
+
+Answer: 10
+
+2: What aspects of the workshop did you like?
+
+Answer: I really appreciated the individual attention when I had a problem or had trouble grasping a concept.  It made the ability to catch up with the group much easier.
+
+3: What aspects of the workshop would you change?
+
+Answer: I was confused about the start time. (lab from 9-10).  A schedule of the day would have been helpful.
