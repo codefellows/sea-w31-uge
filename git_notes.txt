@@ -55,3 +55,5 @@ git show + id
 
 ls -a  (shows all, including hidden files)
 
+Final note - dammit, just realized I was supposed to use "touch" to create new text files. Not sure what to do, if it's ok that I didn't actually do it that way. Will be sure to ask after completing assignment, and do over if necessary.
+
