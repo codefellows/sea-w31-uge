@@ -1,0 +1,22 @@
+git init = initialize a Git repository, only use ONCE per project
+git add = add a file to the staging area of the repo you have initialized
+
+git status = displays the status of your Git repository
+
+-m “*” when committing a Git repo = makes a comment on this repo (best practice to always add a quality comment)
+
+git log = displays the identifying information captured by your last commit
+
+git show * = where * is the hash of the commit, which is available in the git log, displays the actual contents (not just identifying information, the contents itself) of the last commit
+
+“head” = a term for where you are right now in the Git directory status
+
+“branch” = a term for a fork off of a directory status
+
+git branch * = creates a new branch named whatever list where the asterisk is (do not need “”)
+
+git branch = displays all current branches of this Git repository
+
+git checkout * = changes your position to the * listed branch
+
+touch * = creates an empty file (ex: touch git_notes.txt creates a new file with no content within it)
