@@ -80,5 +80,5 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 QUestions:10
 2. I really liked learning the process of what Git is
 3.I would like a little more time to figure out the steps
-
+It is the next day and I am doing this again to practice.
 
