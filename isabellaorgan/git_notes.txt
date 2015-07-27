@@ -57,3 +57,4 @@ ls -a  (shows all, including hidden files)
 
 Final note - dammit, just realized I was supposed to use "touch" to create new text files. Not sure what to do, if it's ok that I didn't actually do it that way. Will be sure to ask after completing assignment, and do over if necessary.
 
+Another final note - realized that I'd somehow gotten out of my isabellaorgan directory in my notes branch and see that on github in my notes branch, both unix_notes and git_notes exist outside of my isabella organ directory. Went back to terminal, and added both files to isabellaorgan, and removed the extra files that were ouside the directory. Unix_notes WAS actually in the directory on Github. Would like to figure out how to remove the files that are outside the directory on Github, if that is even possible.
