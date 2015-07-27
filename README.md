@@ -77,3 +77,10 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+
+Answers to your Questions!
+
+1. 7 - Quite likely
+2. All the Git info was super helpful.
+3. I would say that the class begins at 10:00 - come at 9:00 if you need help with pre-work. I didn't get the memo.. haha!
