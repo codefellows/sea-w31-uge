@@ -1,0 +1,93 @@
+Why Unix?
+
+Good for app dev - unix servers are more stable, faster, have good compatability, are free & open
+O/S
+OSX Linux Android Darwin
+
+Multi Process, multi user
+
+Unix Philoshophy:
+Data as plain/text;
+Many small programs;
+Input-Output Redirection
+
+Kernel - manages hardware, provides security from hackers
+
+Shell - graphical, audible user interface
+
+absolute path begins with "/"
+relative does not
+
+/Users/isabellaorgan
+
+ls = list
+ls -t = time (modified)
+ls - l = long format
+ls -lt = long time (modified, with details)
+ls -r = reverse (the order)
+ls -rt = reverse time (modified)
+
+chain flags together (ls -rtl, etc)
+
+man = manual - built in manual for all Unix commands
+(ie man is = manual for list)
+
+/ in man = search for terms (ie errors)
+
+linux = case sensitive
+OSX, Windows = case insensitive
+
+USE: (for file names)
+lower case
+- and _ (dash & underscore)
+
+DO NOT USE: spaces
+
+if you do have a file with a space, use "\" to escape (in place of the space)
+
+d = directory
+.. move one level up
+ls ~ replaces ~ with absolute path to home directory
+. = "right here"/ file you're in
+../ = two levels up
+
+cd = return to home directory
+~ absolute path to home directory
+. = right here
+.. = up one level
+../ = up 2 levels
+
+History _____ (put a number, ie 5)
+lists last 5 things in history
+
+history | less
+
+Unix philosophy:
+
+Do one thing and do it well. Every output can become the input of another program.
+
+
+
+
+Less command - control movement through the reading of a file
+
+pipe |
+used to use output of one command as input of another
+
+Saving History
+From home directory
+history > moving_around.txt
+
+Redirection operator (>)
+sends output of command to its left to file on its right
+
+if file does not exist, it is created.
+
+if it does exist, it is overwritten.
+
+If operator is double (>>), output is added.
+
+mkdir = make directory
+mv = Move file to directory
+
+Can be used to move & rename.
