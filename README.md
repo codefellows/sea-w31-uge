@@ -22,6 +22,7 @@ Following completion of these Pre-work assignments, you should:
  - Be able to open files in Sublime Text via the Terminal
  - Be able to receive a valid response when typing "git --version"
 
+
 ---
 
 ### Testing Out of the Workshop
@@ -77,3 +78,17 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+
+Amy Bice
+1: On a scale of 0 - 10, how likely are you to recommend this workshop to a friend?
+9
+
+2: What aspects of the workshop did you like?
+The slides are helpful, I used them to go over things I didn't quit get in the class.
+
+3: What aspects of the workshop would you change?
+The pace, I felt things were glossed over and not well addressed on the GitHub portion.
+
+Alex Reid [5:22 PM]
+
