@@ -1,6 +1,28 @@
 Unix & Git for Everyone
 -----------------------
 
+####1: On a scale of 0 - 10, how likely are you to recommend this workshop to a friend?
+
+Answer: 5
+
+####2: What aspects of the workshop did you like?
+
+Answer: A classroom format paired with TAs being present.
+
+####3: What aspects of the workshop would you change?
+
+The following statement appears on the pre-work to this course: "WARNING: Before running the following commands, replace YOUR FULL NAME and YOUR EMAIL ADDRESS with the name and email from your GitHub account." Consider revising this to explicity instruct students to create a github account prior to the class. Because the preceding instructions for the rest of the pre-work were very explicit step-by-step instructions, I (perhaps stupidly) did not realize I should create the github account before running this command and attending the class. I fell behind as the class was speeding up because I had to pause to create an account.
+
+Consider a faster pace for the morning material, to give more time for the afternoon material.
+
+Consider limiting the number of students per class, or increase the number of TAs.
+
+Easy to fall behind by missing one or two items.
+
+
+
+
+
 ### Pre-work
 
 ##### 1. Ensure your laptop up to the task of coding
